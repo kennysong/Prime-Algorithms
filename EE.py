@@ -5,7 +5,7 @@ from random import randint, randrange
 from fractions import gcd
 from itertools import chain, cycle
 from pyecm import factors
-
+d
 # prechosen list of numbers to avoid unecessary complexity from unique cases, i.e. n = 1
 primes = [(3,5), (59,73), (563,859), (2053,9371), (10771,63463), (123449,984539), (4352377,9134617),
           (12454679,97665457), (276654563,976654579), (2766545629,6578494243), (12987435733,92987435687),
